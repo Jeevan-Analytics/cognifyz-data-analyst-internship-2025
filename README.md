@@ -52,7 +52,7 @@ By the end of this internship, I strengthened my practical skills in Python for 
 
 **Jeevan Katloju**  
 📧 jeevank7075@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/jeevan-katloju-637b752b2)
+🔗 [LinkedIn Profile](https:www.linkedin.com/in/jeevan-katloju)
 
 ---
 
