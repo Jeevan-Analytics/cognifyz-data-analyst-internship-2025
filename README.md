@@ -1,11 +1,3 @@
-# 📊 Cognifyz Data Analyst Internship – 2025
-
-🎓 **Role:** Data Analyst Intern  
-🏢 **Organization:** Cognifyz Technologies  
-📅 **Duration:** May 2025 – June 2025  
-🧰 **Tools & Technologies:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, VSCode
-
----
 
 # 📊 Cognifyz Data Analyst Internship – 2025
 
